@@ -41,5 +41,5 @@ C mathematical operations are a group of functions in the standard library of th
 
 &nbsp;
 <div style="text-align:center"> 
-<i>created by Egor Oleynik, Evgenia Psareva and Dmitry Savinsky in December 2022</i>
+<i>created by Egor Oleynik, Evgenia Psareva and Dmitry Savinsky in December 2021</i>
 </div>
