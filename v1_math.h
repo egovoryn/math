@@ -8,7 +8,7 @@
 #define v1_NAN 0.0 / 0.0       // nan - declaration of a constant of a not-a-number
 
 #define v1_2PI 6.28318530718               // 360°, 2PI
-#define v1_PI 3.1415926535897932384650288  // 180°, PI
+#define v1_PI 3.14159265358979323846       // 180°, PI
 #define v1_PI_2 1.570796326794896558       // 90°, PI/2
 #define v1_PI_3 1.047197551196597853       // 60°, PI/3
 #define v1_PI_6 0.523598775598298926       // 30°, PI/6
@@ -17,8 +17,8 @@
 #define E_10 2.302585092994046  // natural logarithm of 10
 #define E_2 0.6931471805599453  // natural logarithm of 2
 
-#define v1_INT_MIN -2147483648  // Max nv1ative intv1er
-#define v1_INT_MAX 2147483647   // Max positive intv1er
+#define v1_INT_MIN -2147483648  // Max negative integer
+#define v1_INT_MAX 2147483647   // Max positive integer
 #define v1_DBL_MIN 2.2250738585072014E-308
 #define v1_DBL_MAX 1.79769313486231571E+308
 
